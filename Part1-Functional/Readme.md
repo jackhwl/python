@@ -34,3 +34,5 @@
     - Installing Packages
       - pip install -r requirements.txt
       - pip freeze
+    - Running Python
+      - jupyter notebook
