@@ -31,3 +31,6 @@
       - python3.9 -m venv .v39.  // rm -rf .v39
       - source .v39/bin/activate
       - deactivate
+    - Installing Packages
+      - pip install -r requirements.txt
+      - pip freeze

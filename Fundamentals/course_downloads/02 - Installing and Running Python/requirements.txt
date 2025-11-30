@@ -1,0 +1,7 @@
+notebook
+pytz
+python-dateutil
+requests
+openpyxl
+xlrd
+jupyterthemes==0.20.0
