@@ -26,3 +26,8 @@
     Namespaces are one honking great idea -- let's do more of those!
 
 '''
+  - Running Python
+    - Create virtual environments
+      - python3.9 -m venv .v39.  // rm -rf .v39
+      - source .v39/bin/activate
+      - deactivate
