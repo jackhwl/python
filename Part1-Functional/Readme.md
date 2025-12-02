@@ -36,3 +36,7 @@
       - pip freeze
     - Running Python
       - jupyter notebook
+    - Python Basics
+      - Objects
+        - (0.125).as_integer_ratio()
+      - Variables - Lecture
