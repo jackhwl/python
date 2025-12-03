@@ -40,3 +40,4 @@
       - Objects
         - (0.125).as_integer_ratio()
       - Variables - Lecture
+      - Variables - Coding
