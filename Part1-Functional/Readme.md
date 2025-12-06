@@ -46,3 +46,5 @@
       - Operator Precedence - Lecture
       - Operator Precedence - Coding
       - Integer Division and Modulus - Lecture
+        - a % b = a - b (a // b)
+      - Integer Division and Modulus - Coding
