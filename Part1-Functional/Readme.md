@@ -44,3 +44,4 @@
       - Arithmetic Operations - Lecture
       - Arithmetic Operations - Coding
       - Operator Precedence - Lecture
+      - Operator Precedence - Coding
