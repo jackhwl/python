@@ -41,3 +41,4 @@
         - (0.125).as_integer_ratio()
       - Variables - Lecture
       - Variables - Coding
+      - Arithmetic Operations - Lecture
