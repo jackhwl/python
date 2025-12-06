@@ -42,3 +42,4 @@
       - Variables - Lecture
       - Variables - Coding
       - Arithmetic Operations - Lecture
+      - Arithmetic Operations - Coding
