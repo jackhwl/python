@@ -51,3 +51,4 @@
       - Comparison Operators - Lecture
       - Comparison Operators - Coding
       - Boolean Operators - Lecture
+      - Boolean Operators - Coding
