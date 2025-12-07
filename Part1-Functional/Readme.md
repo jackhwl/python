@@ -50,3 +50,4 @@
       - Integer Division and Modulus - Coding
       - Comparison Operators - Lecture
       - Comparison Operators - Coding
+      - Boolean Operators - Lecture
