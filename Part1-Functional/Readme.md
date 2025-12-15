@@ -52,3 +52,5 @@
       - Comparison Operators - Coding
       - Boolean Operators - Lecture
       - Boolean Operators - Coding
+    - Conditional Execution
+      - Introduction - Conditional Execution
