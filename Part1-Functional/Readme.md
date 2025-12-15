@@ -58,3 +58,5 @@
       - if...else... - Coding
       - elif - Lecture
       - elif - Coding
+      - Ternary Conditional Operator - Lecture
+      - Ternary Conditional Operator - Code
