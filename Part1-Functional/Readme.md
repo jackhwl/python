@@ -60,3 +60,10 @@
       - elif - Coding
       - Ternary Conditional Operator - Lecture
       - Ternary Conditional Operator - Code
+    - Sequence Types
+      - Introduction - Sequence Types
+        - homogeneous
+          - strings (immutable)
+        - heterogeneous
+          - lists (mutable)
+          - tuples (immutable)
