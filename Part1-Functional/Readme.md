@@ -69,3 +69,5 @@
           - tuples (immutable)
       - Lists - Lecture
       - Lists - Coding
+      - Tuples - Lecture
+      - Tuples - Coding
