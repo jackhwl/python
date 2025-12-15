@@ -67,3 +67,5 @@
         - heterogeneous
           - lists (mutable)
           - tuples (immutable)
+      - Lists - Lecture
+      - Lists - Coding
