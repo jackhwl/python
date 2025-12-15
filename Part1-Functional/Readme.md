@@ -54,3 +54,7 @@
       - Boolean Operators - Coding
     - Conditional Execution
       - Introduction - Conditional Execution
+      - if...else... - Lecture
+      - if...else... - Coding
+      - elif - Lecture
+      - elif - Coding
