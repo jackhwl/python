@@ -73,3 +73,5 @@
       - Tuples - Coding
       - Strings - Lecture
       - Strings - Coding
+      - Slicing - Lecture
+      - Slicing - Coding
