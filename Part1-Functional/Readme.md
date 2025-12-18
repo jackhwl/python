@@ -71,3 +71,5 @@
       - Lists - Coding
       - Tuples - Lecture
       - Tuples - Coding
+      - Strings - Lecture
+      - Strings - Coding
