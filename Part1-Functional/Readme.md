@@ -75,3 +75,6 @@
       - Strings - Coding
       - Slicing - Lecture
       - Slicing - Coding
+      - Manipulating Sequences - Lecture
+      - Manipulating Sequences - Coding
+        - timeit('l.append(1), globals=globals(), number=100_000)
