@@ -78,3 +78,11 @@
       - Manipulating Sequences - Lecture
       - Manipulating Sequences - Coding
         - timeit('l.append(1), globals=globals(), number=100_000)
+      - Copying Sequences - Lecture
+        - shallow copy 
+          - applies to mutable sequence types only 
+          - my_list[:]
+          - my_list.copy()
+        - deep copy
+      - Copying Sequences - Coding
+        - m2 = deepcopy(m1)
