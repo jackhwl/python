@@ -86,3 +86,7 @@
         - deep copy
       - Copying Sequences - Coding
         - m2 = deepcopy(m1)
+      - Unpacking Sequences - Lecture
+      - Unpacking Sequences - Coding
+        - a, b = b, a
+      - Exercises
