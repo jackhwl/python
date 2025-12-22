@@ -101,3 +101,7 @@
       - String Interpolation - Coding
         - f"bid: {bid:.4f}, ask: {ask:.4f}, spread: {ask-bid:.4f}"
       - Exercises
+    - Iteration
+      - Introduction
+      - the range Function - Lecture
+      - the range Function - Coding
