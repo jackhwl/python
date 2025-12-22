@@ -94,3 +94,6 @@
       - Introduction
       - Unicode - Lecture
       - Unicode - Coding
+      - Common String Methods - Lecture
+        - https://docs.python.org/3/library/stdtypes.html#str
+      - Common String Methods - Coding
