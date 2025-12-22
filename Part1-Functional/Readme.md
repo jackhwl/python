@@ -90,3 +90,7 @@
       - Unpacking Sequences - Coding
         - a, b = b, a
       - Exercises
+    - Strings
+      - Introduction
+      - Unicode - Lecture
+      - Unicode - Coding
