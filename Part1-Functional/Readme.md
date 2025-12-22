@@ -97,3 +97,7 @@
       - Common String Methods - Lecture
         - https://docs.python.org/3/library/stdtypes.html#str
       - Common String Methods - Coding
+      - String Interpolation - Lecture
+      - String Interpolation - Coding
+        - f"bid: {bid:.4f}, ask: {ask:.4f}, spread: {ask-bid:.4f}"
+        
