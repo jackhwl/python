@@ -105,3 +105,5 @@
       - Introduction
       - the range Function - Lecture
       - the range Function - Coding
+      - For Loops - Lecture
+      - For Loops - Coding
