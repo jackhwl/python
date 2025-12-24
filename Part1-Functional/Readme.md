@@ -109,3 +109,5 @@
       - For Loops - Coding
       - While Loops - Lecture
       - While Loops - Coding
+      - Continue, Break and Else - Lecture
+      - Continue, Break and Else - Coding
