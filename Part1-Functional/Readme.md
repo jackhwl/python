@@ -107,3 +107,5 @@
       - the range Function - Coding
       - For Loops - Lecture
       - For Loops - Coding
+      - While Loops - Lecture
+      - While Loops - Coding
