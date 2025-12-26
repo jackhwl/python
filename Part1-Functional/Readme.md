@@ -119,3 +119,4 @@
       - Iterating Dictionaries - Coding
       - Working with Dictionaries - Lecture
       - Working with Dictionaries - Coding
+      - Exercises
