@@ -117,3 +117,5 @@
       - Associative Arrays and Dictionaries - Coding
       - Iterating Dictionaries - Lecture
       - Iterating Dictionaries - Coding
+      - Working with Dictionaries - Lecture
+      - Working with Dictionaries - Coding
