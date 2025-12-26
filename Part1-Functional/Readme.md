@@ -111,3 +111,7 @@
       - While Loops - Coding
       - Continue, Break and Else - Lecture
       - Continue, Break and Else - Coding
+    - Dictionaries
+      - Introduction
+      - Associative Arrays and Dictionaries - Lecture
+      - Associative Arrays and Dictionaries - Coding
