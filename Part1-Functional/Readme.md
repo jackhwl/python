@@ -126,3 +126,4 @@
       - Python Sets - Coding
       - Common Set Operations - Lecture
       - Common Set Operations - Coding
+      - Exercises
