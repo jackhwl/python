@@ -124,3 +124,5 @@
       - Intruduction - Sets
       - Python Sets - Lecture
       - Python Sets - Coding
+      - Common Set Operations - Lecture
+      - Common Set Operations - Coding
