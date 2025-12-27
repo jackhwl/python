@@ -120,3 +120,7 @@
       - Working with Dictionaries - Lecture
       - Working with Dictionaries - Coding
       - Exercises
+    - Sets
+      - Intruduction - Sets
+      - Python Sets - Lecture
+      - Python Sets - Coding
