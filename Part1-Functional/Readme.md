@@ -136,3 +136,4 @@
       - List Comprehensions - Coding
       - Dictionary and Set Comprehensions - Lecture
       - Dictionary and Set Comprehensions - Coding
+      - Exercise
