@@ -134,3 +134,5 @@
         - comprehensions are actually functions
         - [expression1 for item in iterable if expression2]
       - List Comprehensions - Coding
+      - Dictionary and Set Comprehensions - Lecture
+      - Dictionary and Set Comprehensions - Coding
