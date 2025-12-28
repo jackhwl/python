@@ -127,3 +127,10 @@
       - Common Set Operations - Lecture
       - Common Set Operations - Coding
       - Exercises
+    - Comprehensions
+      - Introduction
+      - List Comprehensions - Lecture
+        - [expression for item in iterable]
+        - comprehensions are actually functions
+        - [expression1 for item in iterable if expression2]
+      - List Comprehensions - Coding
