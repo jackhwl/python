@@ -137,3 +137,7 @@
       - Dictionary and Set Comprehensions - Lecture
       - Dictionary and Set Comprehensions - Coding
       - Exercise
+    - Exceptions
+      - Introduction - Exceptions
+        - LBYL
+        - EAFP
