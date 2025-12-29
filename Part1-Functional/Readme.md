@@ -141,3 +141,5 @@
       - Introduction - Exceptions
         - LBYL
         - EAFP
+      - Raising Exceptions - Lecture
+      - Raising Exceptions - Coding
