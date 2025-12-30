@@ -143,3 +143,5 @@
         - EAFP
       - Raising Exceptions - Lecture
       - Raising Exceptions - Coding
+      - Handling Exceptions - Lecture
+      - Handling Exceptions - Coding
