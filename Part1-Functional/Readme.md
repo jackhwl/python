@@ -153,3 +153,5 @@
       - Generators - Lecture
       - Generators - Coding
       - Exercises
+    - Functions
+      - Introduction - Functions
