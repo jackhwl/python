@@ -152,3 +152,4 @@
       - Iterables and Iterators - Coding
       - Generators - Lecture
       - Generators - Coding
+      - Exercises
