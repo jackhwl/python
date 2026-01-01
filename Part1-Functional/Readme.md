@@ -150,3 +150,5 @@
       - Introduction Iterables and Iterators
       - Iterables and Iterators - Lecture
       - Iterables and Iterators - Coding
+      - Generators - Lecture
+      - Generators - Coding
