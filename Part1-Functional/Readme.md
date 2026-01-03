@@ -155,3 +155,5 @@
       - Exercises
     - Functions
       - Introduction - Functions
+      - Custom Functions - Lecture
+      - Custom Functions - Coding
