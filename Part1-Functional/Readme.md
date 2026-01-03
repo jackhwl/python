@@ -157,3 +157,5 @@
       - Introduction - Functions
       - Custom Functions - Lecture
       - Custom Functions - Coding
+      - Star Arguments - Lecture
+      - Star Arguments - Coding 
