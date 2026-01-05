@@ -163,3 +163,6 @@
       - Default Values - Coding
       - Keyword-Only Arguments - Lecture
       - Keyword-Only Arguments - Coding
+      - Lambda Functions - Lecture
+      - Lambda Functions - Coding 
+      - Exercises
