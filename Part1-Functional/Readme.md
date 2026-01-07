@@ -166,3 +166,5 @@
       - Lambda Functions - Lecture
       - Lambda Functions - Coding 
       - Exercises
+    - Some Additional Functions
+      - Introduction - Some Additional Functions
