@@ -170,3 +170,5 @@
       - Introduction - Some Additional Functions
       - round - Lecture
       - round - Coding
+      - sorting, min, max - Lecture
+      - sorting, min, max - Coding
