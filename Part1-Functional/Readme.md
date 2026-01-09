@@ -174,3 +174,4 @@
       - sorting, min, max - Coding
       - zip - Lecture
       - zip - Coding
+      - Exercises
