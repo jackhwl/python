@@ -172,3 +172,5 @@
       - round - Coding
       - sorting, min, max - Lecture
       - sorting, min, max - Coding
+      - zip - Lecture
+      - zip - Coding
