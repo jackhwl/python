@@ -182,3 +182,5 @@
       - Passing and Returning Functions - Coding
       - map - Lecture
       - map - Coding
+      - Closures - Lecture
+      - Closures - Coding
