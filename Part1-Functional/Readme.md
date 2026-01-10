@@ -180,3 +180,5 @@
       - Introduction - Higher Order Functions
       - Passing and Returning Functions - Lecture
       - Passing and Returning Functions - Coding
+      - map - Lecture
+      - map - Coding
