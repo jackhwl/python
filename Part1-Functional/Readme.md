@@ -178,3 +178,5 @@
     - Knowledge Check 1
     - Higher Order Functions
       - Introduction - Higher Order Functions
+      - Passing and Returning Functions - Lecture
+      - Passing and Returning Functions - Coding
