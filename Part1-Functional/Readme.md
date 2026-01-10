@@ -175,3 +175,6 @@
       - zip - Lecture
       - zip - Coding
       - Exercises
+    - Knowledge Check 1
+    - Higher Order Functions
+      - Introduction - Higher Order Functions
