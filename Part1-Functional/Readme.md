@@ -176,6 +176,7 @@
       - zip - Coding
       - Exercises
     - Knowledge Check 1
+      - Exam 1
     - Higher Order Functions
       - Introduction - Higher Order Functions
       - Passing and Returning Functions - Lecture
