@@ -185,3 +185,6 @@
       - map - Coding
       - Closures - Lecture
       - Closures - Coding
+      - Exercises
+    - Sorting and Filtering
+      - Introduction - Sorting and Filtering
