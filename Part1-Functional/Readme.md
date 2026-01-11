@@ -188,3 +188,5 @@
       - Exercises
     - Sorting and Filtering
       - Introduction - Sorting and Filtering
+      - Filtering - Lecture
+      - Filtering - Coding
