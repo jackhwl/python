@@ -191,4 +191,6 @@
       - Filtering - Lecture
       - Filtering - Coding
       - Sorting - Lecture
-      - Sorting - Coding 
+      - Sorting - Coding
+      - min and max - Lecture
+      - min and max - Coding
