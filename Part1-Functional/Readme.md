@@ -190,3 +190,5 @@
       - Introduction - Sorting and Filtering
       - Filtering - Lecture
       - Filtering - Coding
+      - Sorting - Lecture
+      - Sorting - Coding 
