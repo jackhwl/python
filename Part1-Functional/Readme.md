@@ -194,3 +194,4 @@
       - Sorting - Coding
       - min and max - Lecture
       - min and max - Coding
+      - Exercises
