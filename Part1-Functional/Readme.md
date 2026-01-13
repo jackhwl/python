@@ -195,3 +195,7 @@
       - min and max - Lecture
       - min and max - Coding
       - Exercises
+    - Decorators
+      - Introduction
+      - Decorators - Lecture
+      - Decorators - Coding
