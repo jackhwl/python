@@ -202,3 +202,6 @@
       - LRU Cache - Lecture
       - LRU Cache - Coding
       - Exercises
+    - Text Files
+      - Reading Text Files - Lecture
+      - Reading Text Files - Coding
