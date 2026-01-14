@@ -201,3 +201,4 @@
       - Decorators - Coding
       - LRU Cache - Lecture
       - LRU Cache - Coding
+      - Exercises
