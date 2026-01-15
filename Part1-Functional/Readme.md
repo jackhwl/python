@@ -208,3 +208,12 @@
       - Writing Text Files - Lecture
       - Writing Text Files - Coding
       - Exercises
+    - Modules and Imports
+      - Introduction - Modules and Imports
+        - https://pypi.org
+        - NumPy
+        - SciPy
+        - QuantLib
+        - Pandas
+        - Matplotlib
+        - scikit-learn
