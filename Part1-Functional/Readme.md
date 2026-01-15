@@ -217,3 +217,8 @@
         - Pandas
         - Matplotlib
         - scikit-learn
+      - Basic Imports - Lecture
+      - Basic Imports - Coding
+        - import math
+        - import cmath
+          - cmath.sqrt(-4)
