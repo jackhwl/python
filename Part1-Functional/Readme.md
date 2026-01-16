@@ -233,3 +233,11 @@
         - epoch time: Unix or POSIX time
         - time
         - datetime
+      - The time Module - Lecture
+        - perf_counter
+          - from time import perf_counter
+          - t1 = perf_counter()
+          - t2 - perf_counter()
+          - elapsed = t2 - t1
+          - time.gmtime(0) -- epoch
+          - time.time()
