@@ -226,3 +226,10 @@
       - Import Variants - Coding
         - from math import sqrt, pi
       - Exercises
+    - Dates and Times
+      - Introduction - Dates and Times
+        - dateutil: parsing string
+        - pytz: time zones
+        - epoch time: Unix or POSIX time
+        - time
+        - datetime
