@@ -225,3 +225,4 @@
       - Import Variants - Lecture
       - Import Variants - Coding
         - from math import sqrt, pi
+      - Exercises
