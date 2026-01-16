@@ -222,3 +222,6 @@
         - import math
         - import cmath
           - cmath.sqrt(-4)
+      - Import Variants - Lecture
+      - Import Variants - Coding
+        - from math import sqrt, pi
