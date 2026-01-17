@@ -247,3 +247,5 @@
         - from time import strptime
           - strptime(d, '%Y-%m-%d') => 
           - time.struct_time(tm_year=2025, tm_mon=1, tm_mday=17, tm_hour=0, tm_min=0, tm_sec=0, tm_wday=4, tm_yday=17, tm_isdst=-1)
+      - The datetime Module - Lecture
+      - The datetime Module - Coding
