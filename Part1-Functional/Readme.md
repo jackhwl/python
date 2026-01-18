@@ -258,3 +258,8 @@
       - Naive and Aware Times - Coding
         - Naive: UTC
         - Aware: with timezone
+      - Custom Representations - Lecture
+      - Custom Representations - Coding
+        - from datetime import datetime, time, date
+        - strftime
+        - strptime
