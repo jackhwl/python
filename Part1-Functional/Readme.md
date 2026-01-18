@@ -268,3 +268,6 @@
       - Introduction
       - Reading CSV Files - Lecture
       - Reading CSV Files - Coding
+      - Dialects - Lecture
+      - Dialects - Coding
+        - csv.listdialects(). excel, texel-tab, unix
