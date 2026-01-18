@@ -264,3 +264,7 @@
         - strftime
         - strptime
       - Exercises
+    - CSV Module
+      - Introduction
+      - Reading CSV Files - Lecture
+      - Reading CSV Files - Coding
