@@ -255,4 +255,6 @@
       - Naive and Aware Times - Lecture
         - from datetime import datetime, timezone, timedelta
           - pytz
-      
+      - Naive and Aware Times - Coding
+        - Naive: UTC
+        - Aware: with timezone
