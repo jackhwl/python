@@ -263,3 +263,4 @@
         - from datetime import datetime, time, date
         - strftime
         - strptime
+      - Exercises
