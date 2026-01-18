@@ -252,3 +252,7 @@
       - Date Arithmetic - Lecture
         - datetime.timedelta
       - Date Arithmetic - Coding
+      - Naive and Aware Times - Lecture
+        - from datetime import datetime, timezone, timedelta
+          - pytz
+      
