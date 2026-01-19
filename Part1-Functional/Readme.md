@@ -271,3 +271,5 @@
       - Dialects - Lecture
       - Dialects - Coding
         - csv.listdialects(). excel, texel-tab, unix
+      - More Examples Reading CSV Files - Lecture
+      - More Examples Reading CSV Files - Coding
