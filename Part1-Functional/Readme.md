@@ -275,3 +275,4 @@
       - More Examples Reading CSV Files - Coding
       - Writing CSV Files - Lecture
       - Writing CSV Files - Coding
+      - Exercises
