@@ -276,3 +276,5 @@
       - Writing CSV Files - Lecture
       - Writing CSV Files - Coding
       - Exercises
+    - Random Module
+      - Introduction - Random Module
