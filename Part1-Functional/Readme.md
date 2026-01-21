@@ -278,3 +278,5 @@
       - Exercises
     - Random Module
       - Introduction - Random Module
+      - Random Numbers - Lecture
+      - Random Numbers - Coding
