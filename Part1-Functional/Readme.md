@@ -282,3 +282,7 @@
       - Random Numbers - Coding
       - Sampling and Shuffling - Lecture
       - Sampling and Shuffling - Coding
+    - Math and Statistics Modules
+      - Introduction
+      - Math Module - Lecture
+      - Math Module - Coding
