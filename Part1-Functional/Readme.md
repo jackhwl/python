@@ -288,4 +288,7 @@
       - Math Module - Coding
       - Statistics Module - Lecture
       - Statistics Module - Coding
-      
+    - Decimal Module
+      - Introduction
+      - Decimal Objects - Lecture
+      - Decimal Objects - Coding
