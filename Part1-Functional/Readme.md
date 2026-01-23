@@ -280,3 +280,5 @@
       - Introduction - Random Module
       - Random Numbers - Lecture
       - Random Numbers - Coding
+      - Sampling and Shuffling - Lecture
+      - Sampling and Shuffling - Coding
