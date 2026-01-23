@@ -286,3 +286,6 @@
       - Introduction
       - Math Module - Lecture
       - Math Module - Coding
+      - Statistics Module - Lecture
+      - Statistics Module - Coding
+      
