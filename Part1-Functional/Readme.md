@@ -292,3 +292,5 @@
       - Introduction
       - Decimal Objects - Lecture
       - Decimal Objects - Coding
+      - Arithmetric Contexts - Lecture
+      - Arithmetric Contexts - Coding
