@@ -296,3 +296,5 @@
       - Arithmetric Contexts - Coding
     - Custom Classes
       - Introduction
+      - Defining Classes - Lecture
+      - Defining Classes - Coding
