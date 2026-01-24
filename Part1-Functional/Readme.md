@@ -294,3 +294,5 @@
       - Decimal Objects - Coding
       - Arithmetric Contexts - Lecture
       - Arithmetric Contexts - Coding
+    - Custom Classes
+      - Introduction
