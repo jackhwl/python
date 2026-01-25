@@ -301,4 +301,6 @@
       - Initializing Classes - Lecture
       - Initializing Classes - Coding
       - Instance Methods - Lecture
-      - Instance Methods - Coding 
+      - Instance Methods - Coding
+      - Special Method - Lecture
+      - Special Method - Coding
