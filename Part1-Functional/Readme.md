@@ -299,4 +299,6 @@
       - Defining Classes - Lecture
       - Defining Classes - Coding
       - Initializing Classes - Lecture
-      - Initializing Classes - Coding 
+      - Initializing Classes - Coding
+      - Instance Methods - Lecture
+      - Instance Methods - Coding 
