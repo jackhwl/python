@@ -307,3 +307,4 @@
       - Properties - Lecture
       - Properties - Coding
       - Exercises
+    - Knowkedge Check 2
