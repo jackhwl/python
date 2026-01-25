@@ -298,3 +298,5 @@
       - Introduction
       - Defining Classes - Lecture
       - Defining Classes - Coding
+      - Initializing Classes - Lecture
+      - Initializing Classes - Coding 
