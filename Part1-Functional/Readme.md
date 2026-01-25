@@ -306,3 +306,4 @@
       - Special Method - Coding
       - Properties - Lecture
       - Properties - Coding
+      - Exercises
