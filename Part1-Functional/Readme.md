@@ -304,3 +304,5 @@
       - Instance Methods - Coding
       - Special Method - Lecture
       - Special Method - Coding
+      - Properties - Lecture
+      - Properties - Coding
