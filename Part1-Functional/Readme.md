@@ -310,4 +310,5 @@
     - Knowkedge Check 2
     - 3rd Party Libraries
       - Introduction
-      
+      - The pytz Library - Lecture
+      - The pytz Library - Coding
