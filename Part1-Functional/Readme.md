@@ -312,3 +312,5 @@
       - Introduction
       - The pytz Library - Lecture
       - The pytz Library - Coding
+      - The dateutil Library - Lecture
+      - The dateutil Library - Coding
