@@ -316,3 +316,5 @@
       - The dateutil Library - Coding
       - JSON Data - Lecture
       - JSON Data - Coding
+      - REST APIs - Lecture
+      - REST APIs - Coding
