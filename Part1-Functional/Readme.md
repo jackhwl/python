@@ -322,3 +322,5 @@
       - The requests Library - Lecture
       - The requests Library - Coding
       - Exercises
+    - Numpy
+      - Introduction - Numpy
