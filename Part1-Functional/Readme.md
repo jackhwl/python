@@ -321,3 +321,4 @@
         - https://finnhub.io/
       - The requests Library - Lecture
       - The requests Library - Coding
+      - Exercises
