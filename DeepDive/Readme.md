@@ -2,3 +2,5 @@
 2. A Quick Refresher - Basics Review
   - The Python Type Hierarchy
   - Multi-Line Statements and Stringsß
+  - Variable Names
+    - A foolish consistency is the hobgoblin of little minds
