@@ -6,3 +6,4 @@
     - https://peps.python.org/pep-0008/
     - A foolish consistency is the hobgoblin of little minds
   - Conditionals
+  - Functions
