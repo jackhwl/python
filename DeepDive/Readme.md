@@ -9,3 +9,4 @@
   - Functions
   - The While Loop
   - Break, Continue and the Try Statement
+  - The For Loop
