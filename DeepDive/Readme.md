@@ -10,3 +10,6 @@
   - The While Loop
   - Break, Continue and the Try Statement
   - The For Loop
+  - Classes
+3. Variables and Memory
+  - Introduction
