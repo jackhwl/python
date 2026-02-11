@@ -14,3 +14,4 @@
 3. Variables and Memory
   - Introduction
   - Variables are Memory References
+  - Reference Counting
