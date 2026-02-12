@@ -15,3 +15,6 @@
   - Introduction
   - Variables are Memory References
   - Reference Counting
+  - Garbage Collection
+    - 3.4 above
+    - circular reference
