@@ -18,3 +18,4 @@
   - Garbage Collection
     - 3.4 above
     - circular reference
+  - Dynamic vs Static Type
