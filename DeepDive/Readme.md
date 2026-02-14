@@ -21,3 +21,4 @@
   - Dynamic vs Static Type
   - Variable Re-Assignment
   - Object Mutability
+  - Function Arguments and Mutability
