@@ -30,3 +30,5 @@
   - Python Optimizations: Interning
     - Interning: reusing objects on-demand
     - integer: [-5, 256]
+  - Python Optimizations: String Interning
+    - sys.intern('very long string')
