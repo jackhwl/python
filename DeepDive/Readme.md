@@ -32,3 +32,5 @@
     - integer: [-5, 256]
   - Python Optimizations: String Interning
     - sys.intern('very long string')
+  - Python Optimizations: Peephole
+    - Set membership is much faster than list or tuple membership (sets are basically like dictionaries)
