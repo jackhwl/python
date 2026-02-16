@@ -26,3 +26,4 @@
   - Variable Equality
     - is compare memory address
     - == compare object state
+  - Everything is an Object
