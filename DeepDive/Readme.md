@@ -27,3 +27,6 @@
     - is compare memory address
     - == compare object state
   - Everything is an Object
+  - Python Optimizations: Interning
+    - Interning: reusing objects on-demand
+    - integer: [-5, 256]
