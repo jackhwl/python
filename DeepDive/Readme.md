@@ -23,3 +23,6 @@
   - Object Mutability
   - Function Arguments and Mutability
   - Shared References and Mutability
+  - Variable Equality
+    - is compare memory address
+    - == compare object state
