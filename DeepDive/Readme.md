@@ -34,3 +34,5 @@
     - sys.intern('very long string')
   - Python Optimizations: Peephole
     - Set membership is much faster than list or tuple membership (sets are basically like dictionaries)
+4. Numeric Types
+  - Introduction
