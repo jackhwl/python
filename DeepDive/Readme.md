@@ -36,3 +36,5 @@
     - Set membership is much faster than list or tuple membership (sets are basically like dictionaries)
 4. Numeric Types
   - Introduction
+  - Integers: Data Types
+    - int object uses a variable number of bits
