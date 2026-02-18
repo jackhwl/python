@@ -43,3 +43,4 @@
     - int // int => int,  floor division
     - int % int => int, modulo operator
     - n = d * (n // d) + (n % d). numerator / denominator
+  - Integers: Constructors and Bases - Lecture
