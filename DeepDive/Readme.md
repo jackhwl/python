@@ -38,3 +38,8 @@
   - Introduction
   - Integers: Data Types
     - int object uses a variable number of bits
+  - Integers: Operations
+    - int / int => float
+    - int // int => int,  floor division
+    - int % int => int, modulo operator
+    - n = d * (n // d) + (n % d). numerator / denominator
