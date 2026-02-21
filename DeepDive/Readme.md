@@ -46,3 +46,8 @@
   - Integers: Constructors and Bases - Lecture
   - Integers: Constructors and Bases - Coding
     - n, m = divmod(n, b)
+  - Rational Numbers - Lecture
+    - y = Fraction('22/7') => Fraction(22, 7)
+    - x = Fraction(math.pi)
+    - x.limit_denominator(10) => Fraction(22, 7)
+    - x.limit_denominator(500) => Fraction(355, 113)
