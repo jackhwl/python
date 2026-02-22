@@ -54,3 +54,5 @@
   - Rational Numbers - Code
   - Floats: Internal Representations - Lecture
   - Floats: Internal Representations - Code
+  - FLoats: Equality Testing - Lecture
+    - math.isclose(x, y, rel_tol=1e-5, abs_tol=1e-5)
