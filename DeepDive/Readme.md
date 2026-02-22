@@ -52,3 +52,4 @@
     - x.limit_denominator(10) => Fraction(22, 7)
     - x.limit_denominator(500) => Fraction(355, 113)
   - Rational Numbers - Code
+  - Floats: Internal Representations - Lecture
