@@ -62,3 +62,4 @@
     - floor
     - ceiling
     - rounding
+  - Floats: Coercing to Integers - Code
