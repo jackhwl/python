@@ -54,6 +54,11 @@
   - Rational Numbers - Code
   - Floats: Internal Representations - Lecture
   - Floats: Internal Representations - Code
-  - FLoats: Equality Testing - Lecture
+  - Floats: Equality Testing - Lecture
     - math.isclose(x, y, rel_tol=1e-5, abs_tol=1e-5)
-  - FLoats: Equality Testing - Code
+  - Floats: Equality Testing - Code
+  - Floats: Coercing to Integers - Lecture
+    - truncation
+    - floor
+    - ceiling
+    - rounding
