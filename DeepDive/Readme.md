@@ -63,3 +63,4 @@
     - ceiling
     - rounding
   - Floats: Coercing to Integers - Code
+  - Floats: Rounding - Lecture
