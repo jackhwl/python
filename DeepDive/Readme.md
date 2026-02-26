@@ -64,3 +64,4 @@
     - rounding
   - Floats: Coercing to Integers - Code
   - Floats: Rounding - Lecture
+  - Floats: Rounding - Coding
