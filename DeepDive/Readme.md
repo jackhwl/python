@@ -66,3 +66,4 @@
   - Floats: Rounding - Lecture
   - Floats: Rounding - Coding
   - Decimals: Lecture
+  - Decimals: Code
