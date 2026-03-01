@@ -69,3 +69,5 @@
   - Decimals: Code
   - Decimals: Constructors and Contexts - Lecture
   - Decimals: Constructors and Contexts - Code
+  - Decimals: Math Operations - Lecture
+  - Decimals: Math Operations - Coding
