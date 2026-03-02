@@ -71,3 +71,4 @@
   - Decimals: Constructors and Contexts - Code
   - Decimals: Math Operations - Lecture
   - Decimals: Math Operations - Coding
+  - Decimails: Performance Considerations
