@@ -72,3 +72,4 @@
   - Decimals: Math Operations - Lecture
   - Decimals: Math Operations - Coding
   - Decimails: Performance Considerations
+  - Complex Numbers - Lecture
