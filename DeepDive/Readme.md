@@ -74,3 +74,4 @@
   - Decimails: Performance Considerations
   - Complex Numbers - Lecture
   - Complex Numbers - Coding
+  - Booleans
