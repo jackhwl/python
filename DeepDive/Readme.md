@@ -75,3 +75,4 @@
   - Complex Numbers - Lecture
   - Complex Numbers - Coding
   - Booleans
+  - Booleans: Truth Values - Lecture
