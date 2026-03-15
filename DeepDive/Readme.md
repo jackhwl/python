@@ -76,3 +76,5 @@
   - Complex Numbers - Coding
   - Booleans
   - Booleans: Truth Values - Lecture
+  - Booleans: Truth Values - Coding
+    - if a:   ===   if a is not None and len(a) > 0:
